@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" 
+	  xmlns:og="http://opengraphprotocol.org/schema/" 
+	  xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+
+
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="content-style-type" content="text/css" />
+	<meta http-equiv="content-language" content="en" />
+
+	
+	<!-- Meta Tags for Search Engines -->
+	<title>Welcome to Keller PC</title>
+<meta name="keywords" content="pc repair, computer repair, fix my computer, build a new system, wifi home network, software hardware installation, virus trojan adware removal, backup, deleted file recovery, surveillance installation ">
+<meta name="description" content="Repair, installation, and new computers service shop in Covington, IN. We also install DVR surveillance systems and other networking options.">
+<meta name="author" content="J Lewsader">
+<meta name="copyright" content="3/2011">
+<meta name="contact" content="jlewsader@gmail.com">
+	<meta name="category" content="Services: Computers: Repair" />
+	<!--<meta property="og:title" content="Keller PC"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="http://www.keller-pc.com"/>
+    <meta property="og:image" content="http://www.keller-pc.com/Banner.png"/>
+    <meta property="og:site_name" content="Keller PC"/>
+    <meta property="og:description" content="We offer affordable pc services. Repairs, installation, and new computers."/>
+	<meta property="fb:admins" content="jlewsader"/>
+	<meta property="fb:app_id" content="153973901282480" />-->
+	
+	<!-- External CSS Stylesheets -->
+	<link rel="stylesheet" type="text/css" href="css/reset.css" />
+	<link rel="stylesheet" type="text/css" href="css/grid.css" />
+	<link rel="stylesheet" type="text/css" href="css/main.css" />
+	
+	<script type="text/javascript">
+
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-18404105-1']);
+ _gaq.push(['_trackPageview']);
+
+ (function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+
+	</script>
+	
+
+	
+</head>
+<body>
+
+<!-- // Open: Page container. -->
+<div class="container_12">
+
+
+
+	<!-- // Open: Header container. -->
+	<div class="grid_12" id="header">
+	
+	
+		<!-- // Open: [Website Title] container. -->
+		<div>
+			<img src="BannerCopy.png" alt="Banner" />
+		</div><!-- // Close: [Website Title] container. -->
+		
+			<!-- // Open: Navigation container. -->
+			<ul id="main-nav">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="services.html">Services</a></li>
+				<li><a href="pricing.html">Pricing</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+			<!-- // Open: Navigation container. -->
+		
+		<!-- // Clear left/right floats. -->
+		<div class="clear"></div>
+		
+	</div><!-- // Close: Header container. -->
+
+	
+	
+	
+	<!-- // Open: Subheader container. -->
+<!--	<div class="grid_12" id="subheader">
+		<h2 class="textCenter">We provide quality service for all of your technology needs at affordable prices.</h2>
+	</div>
+-->    <!-- // Close: Subheader container. -->
+
+	<!-- // Open: Body container. -->
+	<div class="grid_12" id="body">
+	
+	
+		<h5 class="textCenter">Located at 309 Washington St, Covington - Downtown, northside of the square, behind Dale's Barber Shop </h5>
+		<div id="map"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=309+Washington+Street,+Covington,+IN&amp;sll=37.0625,-95.677068&amp;sspn=38.41771,79.013672&amp;ie=UTF8&amp;hq=&amp;hnear=309+Washington+St,+Covington,+Fountain,+Indiana+47932&amp;z=14&amp;ll=40.137618,-87.3973&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=309+Washington+Street,+Covington,+IN&amp;sll=37.0625,-95.677068&amp;sspn=38.41771,79.013672&amp;ie=UTF8&amp;hq=&amp;hnear=309+Washington+St,+Covington,+Fountain,+Indiana+47932&amp;z=14&amp;ll=40.137618,-87.3973" style="color:#0000FF;text-align:left">View Larger Map</a></small></div>
+			 
+	
+	</div><!-- // Close: Body container. -->
+	
+</div><!-- // Close: Page container. -->
+	
+	<!-- // Open: Copyright container. -->	
+
+	<div id="copyright">
+        <a href="http://jlewsader.com" class="copy">Copyright &copy; Justin Lewsader</a>
+		
+<!-- Facebook Like START -->	
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.keller-pc.com&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;"></iframe>
+<!-- Facebook Like END -->
+
+		
+<a href="http://jlewsader.estreamdesk.com/tickets/new" class="contact" target="_blank">Contact Developer</a>
+
+	</div>	<!-- // Close: Copyright container. -->
+	
+</body>
+</html>

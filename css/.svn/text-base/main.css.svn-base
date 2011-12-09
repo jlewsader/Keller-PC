@@ -1,0 +1,278 @@
+﻿html, body {    
+   height: 100%; 
+}
+
+/*
+--------------------------- [ Colors ] -----------------------------
+*/
+#header h2 {
+	color: #E32214;
+}
+
+em {
+	color: #E32214;
+}
+
+#body h3 {
+	color: #000000;
+}
+
+#body em {
+	color: #E32214;
+}
+
+/*
+------------------------- [ Containers ] --------------------------
+*/
+
+/*
+---------- Header: Located at the very top.
+*/
+#header {
+	margin-top: 30px;
+	border-bottom: 1px solid #ccc;
+}
+
+#header {
+	padding-bottom: 15px;
+}
+
+#header .grid_5 {
+	text-align: right;
+}
+
+#header h2 {
+	margin-top: 25px;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+#header h3 {
+	position:relative;
+	left:20%;
+}
+
+/*
+---------- Subheader: Located under the header.
+*/
+#subheader {
+}
+
+#subheader {
+	margin-top: 15px;
+	padding-bottom: 15px;
+	border-bottom: 1px solid #ccc;
+}
+
+/*
+---------- Body: Located under the subheader.
+*/
+#body {
+	margin-top: 30px;
+}
+
+#body h3 {
+	margin-top: 45px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	border-top: 1px solid #ccc;
+}
+
+#body em {
+	margin-left: 2px;
+	margin-right: 2px;
+	letter-spacing: 1px;
+}
+
+#body .grid_4 {
+	background: #f7f7f7;
+	text-align: center;
+}
+
+#body .grid_4 p {
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: left;
+}
+
+#body .grid_4 h3 {
+	text-align: left;
+	margin-top: 0;
+	margin-left: 10px;
+}
+
+#body h3.first {
+	padding-top: 0;
+	margin-top: 0;
+	border-top: 0;
+}
+
+#body img {
+	border: 0;
+	margin: 15px 0px 30px 0px;
+}
+
+#map {
+	margin:20px auto;
+	width:50%;
+}
+
+ul.a {
+	list-style-type:circle;
+}
+
+ul.b {
+	list-style-type: none;
+	text-indent:20px;
+}
+
+/*
+---------- Link Colors
+*/
+a {
+	text-decoration: underline;
+	color: #0000ff;
+}
+
+a:hover {
+	color: #ff0000;
+}
+
+/*
+---------- Copyright ----------
+*/
+#copyright {
+   color: #ccc;
+   text-align: center;
+   font-size: 0.825em;
+   width:80%;
+   margin:auto;
+   height: 30px;
+   position: relative;
+}
+
+#copyright a, copyright a:visited {
+	color:#ccc;
+	display:block;
+	padding:2px 4px;
+	z-index:100;
+}
+
+#copyright a:hover {
+	text-decoration:none;
+}
+
+#copyright a.contact {
+	float:right;
+}
+
+#copyright a.copy {
+	float:left;
+}
+
+/*
+----------------------- [ Text styling ] ------------------------
+*/
+body {
+	font:14px/1.5 Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif
+}
+
+a:focus {
+	outline:1px dotted invert
+}
+
+hr {
+	border:0 #ccc solid;
+	border-top-width:1px;
+	clear:both;
+	height:0
+}
+
+h1 {
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+h3 {
+	font-size: 21px;
+}
+
+h4 {
+	font-size: 18px;
+}
+
+p, ol li, ul li {
+	font-size: 14px;
+}
+
+em {
+	font-weight: bold;
+}
+
+.textCenter {
+	text-align:center;
+}
+
+/*
+----------------------- [ NAV styling ] ------------------------
+*/
+
+ul#main-nav {
+	font-family:helvetica, arial, sans-serif;
+	padding:0;
+	margin:0 15%;
+	float:left;
+	width:100%;
+	font-size:0.9em;
+	text-align:center;
+}
+
+ul#main-nav li {
+	margin:0;
+	padding:0;
+	list-style:none;
+	float:left;
+	margin:0 0.3em 0 0;
+	width:9em;
+}
+
+ul#main-nav li a {
+	text-decoration:none;
+	display:block;
+	padding:0.3em 0.5em;
+	border:1px solid silver;
+	color:#003;
+	background:#fff;
+}
+
+ul#main-nav li a:hover, ul#main-nav li a:focus {
+	border:1px solid gray;
+	color:#000;
+	background:#efefef;
+}
+
+ul#main-nav li ul {
+	padding:0;
+	display:none;
+}
+
+ul#main-nav li:hover ul {
+	display:block;
+}
+
+ul#main-nav li ul li {
+	float:none;
+}
+
+ul#main-nav li ul li a {
+	font-size:0.9em;
+}
+
+p, dl, hr, ol, ul, pre, table, address, fieldset {
+	margin-bottom:20px
+}

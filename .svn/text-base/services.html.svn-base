@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="content-style-type" content="text/css" />
+	<meta http-equiv="content-language" content="en" />
+
+	
+	<!-- Meta Tags for Search Engines -->
+	<title>Keller PC - Services</title>
+	<meta name="description" content="I am experienced technician. Offering affordable pc services. Repairs, installation, and new computers." />
+	<meta name="keywords" content="pc repair, computer repair, fix my computer, build a new system, wifi home network, software hardware installation, virus trojan adware removal, backup, deleted file recovery" />
+	<meta name="category" content="Services: Computers: Repair" />
+
+	<!-- External CSS Stylesheets -->
+	<link rel="stylesheet" type="text/css" href="css/reset.css" />
+	<link rel="stylesheet" type="text/css" href="css/grid.css" />
+	<link rel="stylesheet" type="text/css" href="css/main.css" />
+	
+</head>
+<body>
+
+<!-- // Open: Page container. -->
+<div class="container_12">
+
+
+
+	<!-- // Open: Header container. -->
+	<div class="grid_12" id="header">
+	
+		<!-- // Open: [Website Title] container. -->
+		<div>
+			<img src="BannerCopy.png" alt="Banner" />
+		</div><!-- // Close: [Website Title] container. -->
+		
+			<!-- // Open: Navigation container. -->
+			<ul id="main-nav">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="services.html">Services</a></li>
+				<li><a href="pricing.html">Pricing</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+			<!-- // Open: Navigation container. -->
+		
+		<!-- // Clear left/right floats. -->
+		<div class="clear"></div>
+		
+	</div><!-- // Close: Header container. -->
+
+	
+	
+	<!-- // Open: Body container. -->
+	<div class="grid_12" id="body">
+	
+		<!-- // Open: Left body column. -->
+		<div class="grid_8 alpha">
+		
+			<!-- 
+				The first <h3></h3> is a little different from the next headers. 
+				Only use class="first" in the first <h3></h3> tag located in left column.
+			-->
+			<h3 class="first">Services</h3>
+			<p><em>What can we do for you?</em><br> Here is a list of ways that we can help:</p>
+			<ul class="a">
+				<li>Install Upgrades: Video Cards, RAM, Hard Drives, etc...</li>
+				<li>Computer Repair/Maintenance</li>
+				<li>Design/Install/Repair Home Network</li>
+				<li>Design/Install/Repair Business Network</li>
+				<li>Install Video Surveillance Systems</li>
+				<li>Inside telephone Jacks/Cables</li>
+				<li>Network Jacks/Cables</li>
+				<li>And more! Just ask!</li>
+			</ul>
+				
+		</div><!-- // Close: Left body column. -->
+		
+		
+		
+		<!-- // Clear left/right floats. -->
+		<div class="clear"></div>
+		
+	</div><!-- // Close: Body container. -->
+	
+</div><!-- // Close: Page container. -->
+    
+	<!-- // Open: Copyright container. -->	
+
+	<div id="copyright">
+        <a href="http://jlewsader.com" class="copy">Copyright &copy; Justin Lewsader</a>
+		
+<!-- Facebook Like START -->	
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.keller-pc.com&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;"></iframe>
+<!-- Facebook Like END -->
+
+		
+<a href="http://jlewsader.estreamdesk.com/tickets/new" class="contact" target="_blank">Contact Developer</a>
+
+	</div>	<!-- // Close: Copyright container. -->
+
+</body>
+</html>
